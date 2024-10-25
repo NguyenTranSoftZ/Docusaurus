@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Tutorial Intro
@@ -7,6 +7,8 @@ sidebar_position: 1
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
+
+## Mr.Nguyen
 
 Get started by **creating a new site**.
 
