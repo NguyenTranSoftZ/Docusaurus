@@ -19,4 +19,4 @@ Follow these steps:
 * download our code
 * save it on your laptop 
 
-**[For more info](https://www.google.com/)**z
+**[For more info](https://www.google.com/)**
